@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+                                   ENSICAEN
+                           6 Boulevard Maréchal Juin
+                              F-14050 Caen Cedex
+
+           Battleship Project from the course "Software development tools"
+             
+                 Chapter "Final product" / Chapitre "Produit final"
+
+        Copyright (C) 2017 Quentin DURPOIX - ESPINASSON and Maxime LAMBERT
+--------------------------------------------------------------------------------
+
+DURPOIX - ESPINASSON Quentin (durpoix@ecole.ensicaen.fr)
+
+LAMBERT Maxime (lambert@ecole.ensicaen.fr)

@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+                                   ENSICAEN
+                           6 Boulevard Maréchal Juin
+                              F-14050 Caen Cedex
+
+           Battleship Project from the course "Software development tools"
+             
+                 Chapter "Final product" / Chapitre "Produit final"
+
+        Copyright (C) 2017 Quentin DURPOIX - ESPINASSON and Maxime LAMBERT
+--------------------------------------------------------------------------------
+
+To compile the project, just run the command:
+$ make
+To remove them:
+$ make clean
+
+To launch the project :
+$ ./battleship
+
+NB : This project isn’t finished yet, therefore you may have not a working version
