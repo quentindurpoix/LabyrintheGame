@@ -1,11 +1,6 @@
-#ifndef LABYRINTHE_H
-#define LABYRINTHE_H
+#ifndef UTILS_H
+#define UTILS_H
 
-
-typedef struct {
-	int high;
-	int length;
-}Dimension;
 
 void fillLaby(int ** labyrinth, Dimension dimension);
 void showLaby(int ** labyrinth, Dimension dimension);
